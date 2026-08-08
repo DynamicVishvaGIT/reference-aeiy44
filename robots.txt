@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DynamicVishvaGIT.github.io/reference-aeiy44/sitemap.xml
